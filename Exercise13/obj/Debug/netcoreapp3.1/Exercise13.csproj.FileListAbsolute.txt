@@ -1,0 +1,13 @@
+C:\Users\Sean\source\repos\Exercise13\Exercise13\bin\Debug\netcoreapp3.1\Exercise13.exe
+C:\Users\Sean\source\repos\Exercise13\Exercise13\bin\Debug\netcoreapp3.1\Exercise13.deps.json
+C:\Users\Sean\source\repos\Exercise13\Exercise13\bin\Debug\netcoreapp3.1\Exercise13.runtimeconfig.json
+C:\Users\Sean\source\repos\Exercise13\Exercise13\bin\Debug\netcoreapp3.1\Exercise13.runtimeconfig.dev.json
+C:\Users\Sean\source\repos\Exercise13\Exercise13\bin\Debug\netcoreapp3.1\Exercise13.dll
+C:\Users\Sean\source\repos\Exercise13\Exercise13\bin\Debug\netcoreapp3.1\Exercise13.pdb
+C:\Users\Sean\source\repos\Exercise13\Exercise13\obj\Debug\netcoreapp3.1\Exercise13.csproj.AssemblyReference.cache
+C:\Users\Sean\source\repos\Exercise13\Exercise13\obj\Debug\netcoreapp3.1\Exercise13.AssemblyInfoInputs.cache
+C:\Users\Sean\source\repos\Exercise13\Exercise13\obj\Debug\netcoreapp3.1\Exercise13.AssemblyInfo.cs
+C:\Users\Sean\source\repos\Exercise13\Exercise13\obj\Debug\netcoreapp3.1\Exercise13.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Exercise13\Exercise13\obj\Debug\netcoreapp3.1\Exercise13.dll
+C:\Users\Sean\source\repos\Exercise13\Exercise13\obj\Debug\netcoreapp3.1\Exercise13.pdb
+C:\Users\Sean\source\repos\Exercise13\Exercise13\obj\Debug\netcoreapp3.1\Exercise13.genruntimeconfig.cache
